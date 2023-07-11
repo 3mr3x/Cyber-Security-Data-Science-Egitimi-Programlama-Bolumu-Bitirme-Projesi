@@ -1,0 +1,50 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+body {
+    background-color: #30d5c8,
+}
+.delete-button {
+    background-color: #c10993;
+    color: #ffffff82;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+*{
+    background-color: black;
+    color: aqua;
+}
